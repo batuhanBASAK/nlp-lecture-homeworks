@@ -1,0 +1,6 @@
+tqdm
+turkishnlp
+numpy
+pandas
+matplotlib
+
